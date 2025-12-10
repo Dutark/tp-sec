@@ -54,4 +54,3 @@ amplifytools.xcconfig
 !.yarn/versions
 .aider*
 .env
-.env
